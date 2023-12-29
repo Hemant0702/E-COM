@@ -14,7 +14,7 @@
     "node": ">=14.20.1"
   },
   "keywords": [],
-  "author": "Gautam Rana",
+  "author": "Hemant Natani",
   "license": "NIT",
   "dependencies": {
     "bcrypt": "^5.1.0",

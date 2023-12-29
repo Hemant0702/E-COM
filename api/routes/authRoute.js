@@ -24,7 +24,7 @@ router.post("/login", loginController);
 //Forgot Password || POST
 router.post("/forgot-password", forgotPasswordController);
 
-//test routes
+//test routes 
 router.get("/test", requireSignIn, isAdmin, testController);
 
 //protected User route auth
